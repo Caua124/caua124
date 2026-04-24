@@ -9,5 +9,5 @@
 💻 Atualmente estudando HTML, CSS e JavaScript para desenvolvimento web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js&perline=7" />
 </p>
