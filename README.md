@@ -4,9 +4,9 @@
 
 💼 Jovem Aprendiz na CAERN – Pau dos Ferros/RN
 
-<a href="https://dlp.hashtagtreinamentos.com/certificado/download" target="_blank">
+📄 [Certificado pela hashtag treinamentos][[<a href="https://dlp.hashtagtreinamentos.com/certificado/download" target="_blank">
   <img src="https://img.shields.io/badge/Certificado-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-</a>
+</a>](https://dlp.hashtagtreinamentos.com/certificado/download)](https://dlp.hashtagtreinamentos.com/certificado/download)
 
 💻 Atualmente estudando HTML, CSS e JavaScript para desenvolvimento web
 
