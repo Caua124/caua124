@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 Desenvolvedor em formação com foco em backend
 
-<!--
-**Caua124/caua124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso técnico em Informática (3º ano de 4)
 
-Here are some ideas to get you started:
+💼 Jovem Aprendiz na CAERN – Pau dos Ferros/RN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Certificado em Python pela Hashtag Treinamentos
+
+💻 Atualmente estudando HTML, CSS e JavaScript para desenvolvimento web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&perline=7" />
+</p>
