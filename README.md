@@ -6,8 +6,8 @@
 
 📄 [Certificado jornada python](https://drive.google.com/file/d/1y8CQDlm5tr_8pAVYtKTTLXdQPYLE7_n3/view?usp=drive_link)
 
-💻 Atualmente estudando HTML, CSS e JavaScript para desenvolvimento web
+💻 Atualmente estudando Python e desenvolvimento web com HTML, CSS e JavaScript
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,postgres&perline=7" />
 </p>
