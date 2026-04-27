@@ -9,5 +9,5 @@
 💻 Atualmente estudando Python e JavaScript
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,postgres&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,js,postgres&perline=7" />
 </p>
