@@ -1,4 +1,4 @@
-👨‍💻 Desenvolvedor em formação com foco em backend
+👨‍💻 Desenvolvedor em formação
 
 🎓 Estudante do curso técnico em Informática (3º ano de 4)
 
